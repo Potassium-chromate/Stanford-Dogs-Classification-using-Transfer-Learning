@@ -26,4 +26,4 @@ The project includes Matplotlib visualizations depicting the model's training an
 This project is inspired by the Stanford Dogs Dataset and makes use of the InceptionResNetV2 model available in TensorFlow.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/Potassium-chromate/Stanford-Dogs-Classification-using-Transfer-Learning/blob/main/LICENSE).
