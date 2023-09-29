@@ -15,9 +15,13 @@ The dataset used for this project is the [Stanford Dogs Dataset](http://vision.s
 
 # Model
 This project uses the **InceptionResNetV2** model with weights pre-trained on ImageNet. The top layers are then customized for the specific classification task.
+![](https://github.com/Potassium-chromate/Stanford-Dogs-Classification-using-Transfer-Learning/blob/main/related%20picture/Model%20Structure.png)
 
 # Results
 The trained model classifies the dog breeds with high accuracy. The results, including predicted labels and the respective images names, are stored in an Excel file, result.xlsx.
+
+# Accuracy and loss
+![](https://github.com/Potassium-chromate/Stanford-Dogs-Classification-using-Transfer-Learning/blob/main/related%20picture/loss%20curve.png)_
 
 # Visualizations
 The project includes Matplotlib visualizations depicting the model's training and validation accuracy and loss over epochs.
